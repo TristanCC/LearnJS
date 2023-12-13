@@ -5,3 +5,4 @@ function helloWorld() {
     console.log(beginnings);
 }
 
+helloWorld();
