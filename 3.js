@@ -36,3 +36,4 @@ const myArray1 =
 // 16.Write a function called secondAndThird that accepts any array of strings as an argument. The function should return a concatenation of the second and third elements in the array. If the array does not have enough elements, the function should return the message "Not enough words!".
 
 // 17.Write a function called startsWithS that accepts any array of strings as an argument. The function should return true if the array contains any strings that start with the letter "s", and false otherwise. Try calling it with the colors array to test it.
+
