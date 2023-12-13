@@ -1,3 +1,3 @@
-const num = "Hello World!";
+const beginnings = "Hello World!";
 
-console.log(num);
+console.log(beginnings);
